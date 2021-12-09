@@ -1,0 +1,6 @@
+0.6.12
+pypi(lxml)
+pypi(paramiko)
+pypi(selectors2)
+pypi(setuptools)
+pypi(six)
