@@ -4,7 +4,7 @@
 #
 Name     : pypi-ncclient
 Version  : 0.6.13
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/ee/6f/ef2796c82d097dbead1b804db8457fc8fdc244e3d6860eb0a702315dbf67/ncclient-0.6.13.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ee/6f/ef2796c82d097dbead1b804db8457fc8fdc244e3d6860eb0a702315dbf67/ncclient-0.6.13.tar.gz
 Summary  : Python library for NETCONF clients
